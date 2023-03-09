@@ -1,0 +1,35 @@
+---------------- (2023) Yazılım Geliştirici Yetiştirme Kampı - Python & Selenium ----------------
+---------------- Ödev ----------------
+1.Soru => Python'da Veri Tiplerini araştırınız, her bir veri tipi için kendi cümlelerinizle açıklamalar yazınız.
+1.Cevap =>
+-- String (Metinsel) = Metinsel ifadeler için kullanılan bir veri türüdür.
+-- Nümerik (Sayısal) = Matematiksel işlem yapabileceğimiz veri türüdür. 
+-- Sequence (sıralama) = Birbirine benzeyen farklı olan veri türlerini içinde tutabileceğimiz veri türüdür.
+-- Boolean (1-0) = Bize doğru veya yanlış değer dönen veri türüdür.
+-- Mapping (haritalama) = Birebir sözlük olarak düşünebiliriz. Key-Value 
+
+
+
+2.Soru => Kodlama.io sitesinde değişken olarak kullanıldığını düşündüğünüz verileri, veri tipleriyle birlikte örneklendiriniz.
+2.Cevap =>
+-- 1 Profile tabında KullanıcıAdı ve Email = String türünde. Passoword de string türündedir. 
+-- 2 Kursların tamamlanma yüzdeleri = int Nümerik 
+-- 3 Kategori ve Eğitmenler list türünde geliyordur. 
+-- 4 Navbar daki menülerin linkleri string türünde
+
+
+
+3.Soru => Kodlama.io sitesinde şart blokları kullanıldığını düşündüğünüz kısımları örneklendiriniz ve Python dilinde bu örnekleri koda dökünüz.
+3.Cevap =>
+-- 1 Login olduğumuz sayfada bir şart boluğu çallışmaktadır. Clienntın attığı isteği veritabanındaki data ile karşılaştırmakta.
+yanlış ise giriş başarısız, doğru ise giriş başarılı.
+
+-- 2 Kodalamaio da Otomatik tamalam ve Oynatma boolean türünde olabilir. Açıksa Otomatik oynat değilse clientdan bekle
+
+-- 3 mail adresleri alanına  gerçekten bir mail adresi girildimi kontrolü. 
+
+
+------Önemli--------
+- 3. Sorunun cevapları main.py dosyasındadır.
+
+iyi çalışmalar :)
