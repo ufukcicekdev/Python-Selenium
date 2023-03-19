@@ -1,0 +1,20 @@
+Aşağıdaki konuları araştırıp not alarak notlarınızı arkadaşlarınızla bu ödevin yorum kısmında paylaşınız;
+
+HTML
+HTML Locators
+Selenium'da aksiyonlar (send_keys, click vb..)
+
+
+
+1.Soru: Html?
+1.Cevap:
+    Html weeb sayfaları oluşturmak için kullanılan bir işaret dilidir.
+    Aslında yaptığı iş bir textin veya bir buton web sayfası içinde nerede konumlandıralacağını söylediğimiz bir dildir.
+    Web sayfaları sadece HTML ddilinden ibaret değildir.Bunun için javascript, css gibi diğer dilleride barındırır.
+
+2.Soru: HTML Locators
+2.Cevap: HTML locators aslında ilgili elemente ait özelliklerei sadece o elementi etkilemesi için kullanınlan uniqe ifadelerdir.
+Örnek login butonu mavi renk olsun istiyoruz. o zaman  butonun id ve ya class'ına  login-btn şeklinde bir ifade yazabiliriz.
+classında bulunan bu ifade sayesinde css veya js dosyalarında sadece o butonu etkileyecek özellikller vereebiliriz.
+locators = selector  olarak tanımlıyorum ben. ilgili html tag ina ait selector Xpath veya css selector olabilir. iki ifade içinde syntax farklıdır.
+
