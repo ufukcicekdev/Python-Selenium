@@ -18,3 +18,12 @@ Selenium'da aksiyonlar (send_keys, click vb..)
 classında bulunan bu ifade sayesinde css veya js dosyalarında sadece o butonu etkileyecek özellikller vereebiliriz.
 locators = selector  olarak tanımlıyorum ben. ilgili html tag ina ait selector Xpath veya css selector olabilir. iki ifade içinde syntax farklıdır.
 
+
+3.Soru:Selenium'da aksiyonlar (send_keys, click vb..)
+3.Cevap: https://selenium-python.readthedocs.io/navigating.html   buradan da bakabiliriz aslında. 
+Aşağıda bazı örnekleri mevcuttur.
+send_keys(): Bir metin kutusuna yazı yazmak için kullanılır.
+click(): Bir öğeye tıklamak için kullanılır.
+clear(): Bir metin kutusundaki yazıyı temizlemek için kullanılır.
+get(): Belirli bir URL'ye gitmek için kullanılır.
+submit(): Bir formu göndermek için kullanılır.
